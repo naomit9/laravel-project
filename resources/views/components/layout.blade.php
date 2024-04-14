@@ -5,12 +5,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
+
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
+
     <body class="antialiased">
         @session('message')
             <div class="success-message">
-                {{session('message')}}
+                {{ session('message') }}
             </div>
         @endsession
         {{ $slot }}
