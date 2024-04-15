@@ -4,6 +4,8 @@
 
 ![alt text](image-1.png)
 
+[Youtube Video](https://youtu.be/vwBGDz4WHPE)
+
 ## Description
 A simple personal notes manager application, inside which can register, login and create personal notes.
 
